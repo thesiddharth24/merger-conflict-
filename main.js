@@ -1,2 +1,3 @@
 var x=50
-var truth="hello baby"
+
+var truth="hello // XXX: "
