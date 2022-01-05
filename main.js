@@ -1,2 +1,2 @@
 var x=50
-var truth="hello flat earth"
+var truth="hello hello world"
